@@ -56,8 +56,8 @@ class Codificador:
         criptografia
 
         Args:
-            texto_criptografado (str): _description_
-            chave (bytes): _description_
+            texto_criptografado (str):String criptografada
+            chave (bytes): Chave usada no processo de criptografia
 
         Returns:
             bytes: Texto descriptografado
